@@ -1,0 +1,10 @@
+p{
+            position: absolute;
+            right: 50%;
+        }
+
+body{
+    border: solid black 5px;
+    padding: 50px;
+    border-radius: 10px;
+}
